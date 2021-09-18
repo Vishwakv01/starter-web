@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    world world@wide.com world02@twiter.com
 
 # THANKS
 
