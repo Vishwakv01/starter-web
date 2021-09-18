@@ -15,6 +15,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How to do it
 This will be like that simple.
+please fork this repository and then issue pull request for review
 
 ## cpoyright
 2021 git.trainig.
