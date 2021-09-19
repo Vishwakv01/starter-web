@@ -18,4 +18,8 @@ This will be like that simple.
 please fork this repository and then issue pull request for review
 
 ## cpoyright
+<<<<<<< Updated upstream
 2021 git.trainig. All right reserved.
+=======
+2021 git.trainig. All rights reserverd.
+>>>>>>> Stashed changes
