@@ -18,4 +18,4 @@ This will be like that simple.
 please fork this repository and then issue pull request for review
 
 ## cpoyright
-2021 git.trainig.
+2021 git.trainig. All right reserved.
